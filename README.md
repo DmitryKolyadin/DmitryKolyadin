@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeveloperDmitryKolyadin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dmytry@kolyadin.me
+- 👀 Очень люблю всякие Api, телеграмм ботов и облачные технологии
+- 🌱 Сейчас я изучаю serverless
+- 📫 Связаться со мной dmytry@kolyadin.me или телеграм @DeveloperDK
+
 
 <!---
 DeveloperDmitryKolyadin/DeveloperDmitryKolyadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
