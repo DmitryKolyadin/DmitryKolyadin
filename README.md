@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://http://developerdmitrykolyadin.github.io/" target="_blank">DevDK</a>  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Python programmer.</h3>
+<h1 align="center">Hi there, I'm <a href="https://developerdmitrykolyadin.github.io/" target="_blank">DevDK</a>  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Python programmer.</h3>
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&center=true&width=435&lines=Backend;Yandex+Cloud;Telegram+Bots;Serverless" alt="Typing SVG" /></div>
 
