@@ -65,7 +65,7 @@
 
 ![DmitryKolyadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrykolyadin&theme=cobalt&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DmitryKolyadin)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=DmitryKolyadin" />
 
 ### Wakatime
 
