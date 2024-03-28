@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - I mainly do backend development
-- In IT 4 years.
+- In IT 5 years.
 - I also develop telegram bots, skills for yandex Alice and work with serverless in yandex cloud
 - There are plans to create open source projects
 - 📫How to reach me [dmitry@kolyadin.me](mailto://dmitry@kolyadin.me) or telegram [@DeveloperDK](https://t.me/DeveloperDK)
