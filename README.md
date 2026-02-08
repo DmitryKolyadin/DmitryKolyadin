@@ -27,12 +27,21 @@ I build backend systems and tools with a focus on reliability and clear architec
 - **Architecture**: Focused on Serverless (Yandex Cloud) and Telegram-based services (aiogram).
 - **Academics**: Currently pursuing a degree at Orenburg State University (OSU).
 
+### Telegram Bots
+
+Here are some of my own Telegram bots:
+
+- [orbGIAbot](https://t.me/orbGIAbot) — Notifications and results for state exams in Orenburg region. Serverless, 2,000+ users. Instant alerts, PDF answer sheets, integration with government exam system.
+- [OSUrecapBot](https://t.me/OSUrecapBot) — Semester recap for OSU students. Generates visual stories from student data, like attendance and grades. Inspired by "Spotify Wrapped". Fully serverless, actively used.
+- [yndxGPTbot](https://t.me/yndxGPTbot) — Article summarization using Yandex GPT. Send a link, get a concise summary. Supports inline mode, stateless, serverless architecture.
+- [markupxbot](https://t.me/markupxbot) — Markdown to Telegram message converter. Transforms Markdown files and messages into beautifully formatted Telegram posts. Supports lists, tables, indents. Stateless, serverless. [Source code](https://github.com/DmitryKolyadin/telegram-markup-bot)
+- [yet_another_resize_bot](https://t.me/yet_another_resize_bot) — Telegram image editor. Resize, crop, filters, frames, watermarks. Stateless, serverless, no database required.
+
 ### Selected Projects
 
 - **Traffic Control Center Platform** — Comprehensive urban traffic management and monitoring system.
 - **Veterans Memorial Book** — Digital memorial platform for veterans of the Orenburg region.
 - **Sports Federation Platform** — Interaction system between athletes and the sports programming federation.
-- **orbGIAbot** — High-load Telegram bot for state exam results. Serverless, 2,000+ users.
 - **Journalist Contest System** — Regional automation platform for applications and expert voting.
 - **English Learning Platform** — Educational testing system (Django, Serverless) for eng.sch79.ru.
 
