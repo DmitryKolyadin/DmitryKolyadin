@@ -32,7 +32,7 @@ I build backend systems and tools with a focus on reliability and clear architec
 Here are some of my own Telegram bots:
 
 - [orbGIAbot](https://t.me/orbGIAbot) — Notifications and results for state exams in Orenburg region. Serverless, 2,000+ users. Instant alerts, PDF answer sheets, integration with government exam system.
-- [OSUrecapBot](https://t.me/OSUrecapBot) — Semester recap for OSU students. Generates visual stories from student data, like attendance and grades. Inspired by "Spotify Wrapped". Fully serverless, actively used.
+- [OSUrecapBot](https://t.me/OSUrecapBot) — Semester recap for OSU students. Generates visual stories from student data, like attendance and grades. Inspired by "Spotify Wrapped". Fully serverless, actively used. [Source code](https://github.com/osu-platform/osu-recap)
 - [yndxGPTbot](https://t.me/yndxGPTbot) — Article summarization using Yandex GPT. Send a link, get a concise summary. Supports inline mode, stateless, serverless architecture.
 - [markupxbot](https://t.me/markupxbot) — Markdown to Telegram message converter. Transforms Markdown files and messages into beautifully formatted Telegram posts. Supports lists, tables, indents. Stateless, serverless. [Source code](https://github.com/DmitryKolyadin/telegram-markup-bot)
 - [yet_another_resize_bot](https://t.me/yet_another_resize_bot) — Telegram image editor. Resize, crop, filters, frames, watermarks. Stateless, serverless, no database required.
